@@ -1,9 +1,9 @@
 {
   "name": "nj-photography",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "njphotography",
   "devDependencies": {
-    "bootsrap-sass": "^3.3.6"
+    "bootstrap-sass": "^3.3.6"
   },
   "scripts": {
     "npm-install": "npm install"
